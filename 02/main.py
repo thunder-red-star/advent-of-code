@@ -2,21 +2,14 @@ with open('input.txt') as f:
     lines = f.readlines()
 
 # Define a dictionary that maps the shapes to their corresponding scores.
-CONVERT = {
-    "A": "R",
-    "B": "P",
-    "C": "S",
-    "X": "R",
-    "Y": "P",
-    "Z": "S",
-}
+CONVERT = {"A": "R", "B": "P", "C": "S", "X": "R", "Y": "P", "Z": "S", }
 
 # Define a dictionary that maps the shapes to their corresponding scores.
-SHAPE_SCORES = {
-    "R": 1,  # Rock
+SHAPE_SCORES = {"R": 1,  # Rock
     "P": 2,  # Paper
     "S": 3,  # Scissors
 }
+
 
 def game_outcome(player: str, opponent: str) -> int:
     # If the player's shape is the same as the opponent's shape, return a tie.
@@ -60,6 +53,7 @@ def calculate_total_score(lines: list) -> int:
 
     # Return the total score.
     return total_score
+
 
 # Print the total score.
 print(calculate_total_score(lines))
@@ -116,6 +110,7 @@ def calculate_total_score(lines: list) -> int:
 
     # Return the total score.
     return total_score
+
 
 # Print the total score.
 print(calculate_total_score(lines))
