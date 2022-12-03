@@ -1,5 +1,5 @@
 # Advent of Code 2022
-This repository contains my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
+This repository contains my solutions (cleaned up and with helpful comments) to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
 
 ## Usage
 Each folder (01 to 25) contains a `main.py` file that can be run with Python 3.9. The input for each challenge is stored in a `input.txt` file.
