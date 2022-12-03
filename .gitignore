@@ -1,0 +1,8 @@
+venv
+.idea
+*.iml
+.fleet
+*.pyc
+*.pyo
+*.pyd
+*.so
