@@ -1,5 +1,5 @@
 # Advent of Code 2022
-This repository contains my solutions (cleaned up and with helpful comments) to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
+This repository contains my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
 
 > **Warning**  
 > This code is cleaned up and commented for the purpose of sharing with others. This isn't the original code I wrote! Please try solving the problems yourself first before referring to my solutions.
@@ -17,3 +17,6 @@ There is also a `fetcher.py` file that fetches inputs for a given day at 12:00 t
 | 2       | 4282        | 1535        | 
 | 3       | 43          | 1241        |
 | 4       | 208         | 285         |
+
+> **Danger**
+> Please don't be sad if you don't get a high ranking. I'm not a professional programmer, and I'm sure there are many people who are much better than me. I'm just doing this for fun! There's always another year to try again.
