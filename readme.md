@@ -1,7 +1,7 @@
 # Advent of Code 2022
 This repository contains my solutions (cleaned up and with helpful comments) to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
 
-> **Warning**
+> **Warning**  
 > This code is cleaned up and commented for the purpose of sharing with others. This isn't the original code I wrote! Please try solving the problems yourself first before referring to my solutions.
 
 ## Usage
