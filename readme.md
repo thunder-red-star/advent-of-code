@@ -13,3 +13,4 @@ There is also a `fetcher.py` file that fetches inputs for a given day at 12:00 t
 | 1       | 127954      | 122958      |
 | 2       | 4282        | 1535        | 
 | 3       | 43          | 1241        |
+| 4       | 208         | 285         |
