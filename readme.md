@@ -1,6 +1,9 @@
 # Advent of Code 2022
 This repository contains my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
 
+> **Warning**
+> I'm too lazy to post updates to GitHub so you can consider this [Advent of Code](https://github.com/thunder-red-star/advent-of-code/) to be a [Ramadan of Code](https://github.com/thunder-red-star/ramadan-of-code), even though it's a few months early. I will update rankings but not code.
+
 > **Note**  
 > This code is cleaned up and commented for the purpose of sharing with others. This isn't the original code I wrote! Please try solving the problems yourself first before referring to my solutions.
 
