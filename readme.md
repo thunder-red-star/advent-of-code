@@ -25,6 +25,9 @@ There is also a `fetcher.py` file that fetches inputs for a given day at 12:00 t
 | 7       | 535         | 252         |
 | 8       | 64811       | 58068       |
 | 9       | 3539        | 1140        |
+| 10      | 61547       | 61203       |
+| 11      | 53861       | 46584       |
+| 12      | 33694       | 32652       |
 
 > **Warning**  
 > Please don't be sad if you don't get a high ranking. I'm not a professional programmer, and I'm sure there are many people who are much better than me. I'm just doing this for fun! There's always another year to try again.
